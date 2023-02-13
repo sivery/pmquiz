@@ -1,0 +1,39 @@
+<div class="ui-fluid formgrid grid">
+
+  <div class="field col-12 p-fluid">
+    <label for="sessions">Formulaire(s)</label>
+    <p-multiSelect id="sessions" [options]="sessions" defaultLabel="Tous" [(ngModel)]="selectedSessions" (onChange)="selectQuestionSets()">
+      <ng-template let-value pTemplate="selectedItems">
+        <div *ngFor="let val of value" class="ui-multiselected-item-token ui-corner-all">
+          <span>{{val}}</span>
+        </div>
+        <span *ngIf="!value || value.length === 0">Tous</span>
+      </ng-template>
+      <ng-template let-topic pTemplate="item">
+        <div style="font-size:14px;float:right;margin-top:4px">{{topic.label}}</div>
+      </ng-template>
+    </p-multiSelect>
+  </div>
+  <div class="field col-12 md:col-6 p-fluid">
+    <label for="topics">Nombre de questions (maximum):</label>
+    <input pInputText type="number" [(ngModel)]="maxNbrQuestion"/>
+  </div>
+  <div class="field col-12 md:col-6 p-fluid">
+    <label for="topics">Ordre:</label>
+    <div class="formgroup-inline">
+      <div class="field-checkbox">
+        <p-radioButton name="random" [value]="true" [(ngModel)]="random" inputId="random"></p-radioButton>
+        <label for="random">Aléatoire</label>
+      </div>
+      <div class="field-checkbox">
+        <p-radioButton name="sorted" [value]="false" [(ngModel)]="random" inputId="sorted"></p-radioButton>
+        <label for="sorted">Pré-défini</label>
+      </div>
+    </div>
+  </div>
+  <div class="field grid justify-content-center col-12">
+    <button pButton type="button" label="Démarrer le quiz
+    ({{maxNbrQuestion  && Math.floor(maxNbrQuestion) < nbrQuestions ? Math.floor(maxNbrQuestion) + '/' + nbrQuestions : nbrQuestions}} questions)"
+            [disabled]="!nbrQuestions" (click)="startQuiz()"></button>
+  </div>
+</div>

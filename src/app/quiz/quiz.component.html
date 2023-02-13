@@ -1,0 +1,63 @@
+<div *ngIf="questionForms">
+  <div class="grid justify-content-center navigation">
+    <div class="col">
+      <p-button label="Précédent" styleClass="ui-button-secondary" (onClick)="previousQuestion()" [hidden]="!hasPreviousQuestion()"></p-button>
+    </div>
+    <div class="col text-center">
+      {{questionFormIndex + 1}}/{{questionForms.length}}
+    </div>
+    <div class="col text-right">
+      <p-button label="Suivant" styleClass="ui-button-secondary" (onClick)="nextQuestion()" [hidden]="!hasNextQuestion()"></p-button>
+    </div>
+  </div>
+  <p-panel>
+    <p-header>
+      <span class="p-panel-title question-title">
+        <i *ngIf="questionForm.validated && questionForm.correct" class="pi pi-check" style="font-size: 1.2em"></i>
+        <i *ngIf="questionForm.validated && !questionForm.correct" class="pi pi-times wrong" style="font-size: 1.2em"></i>
+        {{questionForm.topic}} {{questionForm.session}} - Question {{questionForm.index + 1}}
+      </span>
+      <div *ngIf="!questionForm.validated" class="p-panel p-panel-icons-end">
+        <p-button label="Corriger immédiatement" styleClass="ui-button-success" icon="pi pi-check" (onClick)="checkAnswer(questionForm)"></p-button>
+      </div>
+    </p-header>
+    <div class="grid justify-content-center">
+      <div class="question" [innerHTML]="questionForm.question.text"></div>
+      <div class="ui-fluid formgrid grid answers">
+        <div *ngFor="let answer of questionForm.question.answers; let i = index" class="field col-12 answer">
+          <p-radioButton *ngIf="!questionForm.validated" [value]="i" [(ngModel)]="questionForm.selectedAnswer" (onClick)="saveQuestionForms()"></p-radioButton>
+          <i *ngIf="questionForm.validated && answer.correct" class="pi pi-check" style="font-size: 1.2em"></i>
+          <i *ngIf="questionForm.validated && !answer.correct && questionForm.selectedAnswer === i"
+             class="pi pi-times wrong" style="font-size: 1.2em"></i>
+          <i *ngIf="questionForm.validated && !answer.correct && questionForm.selectedAnswer !== i"
+             class="pi pi-times empty" style="font-size: 1em"></i>
+          <span [innerHTML]="answer.text"></span>
+        </div>
+      </div>
+    </div>
+
+    <div *ngIf="!responses && hasNextQuestion()" class="grid justify-content-center">
+      <p-button label="Continuer" (onClick)="continueToNextQuestion(questionForm)"></p-button>
+    </div>
+    <div *ngIf="!responses && !hasNextQuestion()" class="grid justify-content-center">
+      <p-button label="Résultats" styleClass="ui-button-primary" (onClick)="printResults()"></p-button>
+    </div>
+    <div *ngIf="responses" class="grid justify-content-center">
+      <p-button label="Retour" (onClick)="return()"></p-button>
+    </div>
+
+  </p-panel>
+
+  <div class="grid justify-content-center navigation">
+    <div class="col">
+      <p-button label="Précédent" styleClass="ui-button-secondary" (onClick)="previousQuestion()" [hidden]="!hasPreviousQuestion()"></p-button>
+    </div>
+    <div class="col text-center">
+      {{questionFormIndex + 1}}/{{questionForms.length}}
+    </div>
+    <div class="col text-right">
+      <p-button label="Suivant" styleClass="ui-button-secondary" (onClick)="nextQuestion()" [hidden]="!hasNextQuestion()"></p-button>
+    </div>
+  </div>
+</div>
+<p-confirmDialog header="Confirmation" icon="pi pi-exclamation-triangle"></p-confirmDialog>

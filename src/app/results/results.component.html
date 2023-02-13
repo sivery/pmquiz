@@ -1,0 +1,17 @@
+<p-panel>
+  <p-header>
+    <div class="ui-helper-clearfix">
+      Résultats
+    </div>
+  </p-header>
+  <div class="grid">
+    <div class="col-12 text-center">
+      Score: {{getScore()}}/{{questionForms.length}}<br/>
+      Temps: {{getTime()}}
+    </div>
+    <div class="col-12 text-center">
+      <p-button label="Réponses" styleClass="ui-button-success" (onClick)="goToResponses()"></p-button>
+    </div>
+  </div>
+
+</p-panel>

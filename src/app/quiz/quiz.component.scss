@@ -1,0 +1,80 @@
+//:host ::ng-deep .ui-multiselected-item-token,
+//:host ::ng-deep .ui-multiselected-empty-token {
+//  padding: 2px 4px;
+//  margin: 0 0.286em 0 0;
+//  display: inline-block;
+//  vertical-align:middle;
+//  height: 1.857em;
+//}
+//
+//:host ::ng-deep .ui-multiselected-item-token {
+//  background: #007ad9;
+//  color: #ffffff;
+//}
+//
+//.form-container {
+//  padding: 20px;
+//}
+//
+//.question-title{
+//  font-size:16px;
+//  display:inline-block;
+//  margin-top:2px;
+//}
+//
+//.answer span {
+//  padding-left: 10px;
+//}
+//
+//.navigation {
+//  padding-top: 5px;
+//}
+.pi-check {
+  color: green;
+}
+
+.pi-times.wrong {
+  color: red;
+}
+
+.pi-times.empty {
+  color: black;
+}
+//
+//.question-title > i {
+//  padding-right: 10px;
+//}
+
+.answers {
+  padding-top: 15px;
+}
+
+p-header {
+  display: flex;
+  width: 100%;
+}
+
+:host ::ng-deep button {
+  padding: 0.4rem 0.5rem;
+  font-size: 0.7rem;
+}
+
+@media screen and (min-width: 768px) {
+  :host ::ng-deep img {
+    max-width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  :host ::ng-deep img {
+    max-width:100%
+  }
+}
+
+.navigation {
+  padding: 0.8rem 0rem ;
+}
