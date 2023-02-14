@@ -22,9 +22,9 @@
       </div>
     </p-header>
     <div class="grid justify-content-center">
-      <div class="question" [innerHTML]="questionForm.question.text"></div>
-      <div class="ui-fluid formgrid grid answers">
-        <div *ngFor="let answer of questionForm.question.answers; let i = index" class="field col-12 answer">
+      <div class="question col-12" [innerHTML]="questionForm.question.text"></div>
+      <div class="ui-fluid col-12 formgrid grid answers">
+        <div *ngFor="let answer of questionForm.question.answers; let i = index" class="field col-12 answer grid justify-content-center">
           <p-radioButton *ngIf="!questionForm.validated" [value]="i" [(ngModel)]="questionForm.selectedAnswer" (onClick)="saveQuestionForms()"></p-radioButton>
           <i *ngIf="questionForm.validated && answer.correct" class="pi pi-check" style="font-size: 1.2em"></i>
           <i *ngIf="questionForm.validated && !answer.correct && questionForm.selectedAnswer === i"
