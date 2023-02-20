@@ -1060,7 +1060,7 @@
     "session": "Q2",
     "questions": [
       {
-        "text": "<img src=\"images/Q1/Capture1.png\" alt=\"Capture1\" />",
+        "text": "<img src=\"images/Q2/Capture1.png\" alt=\"Capture1\" />",
         "answers": [
           {
             "text": "A",
@@ -1081,7 +1081,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture2.png\" alt=\"Capture2\" />",
+        "text": "<img src=\"images/Q2/Capture2.png\" alt=\"Capture2\" />",
         "answers": [
           {
             "text": "A",
@@ -1102,7 +1102,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture3.png\" alt=\"Capture3\" />",
+        "text": "<img src=\"images/Q2/Capture3.png\" alt=\"Capture3\" />",
         "answers": [
           {
             "text": "A",
@@ -1123,7 +1123,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture4.png\" alt=\"Capture4\" />",
+        "text": "<img src=\"images/Q2/Capture4.png\" alt=\"Capture4\" />",
         "answers": [
           {
             "text": "A",
@@ -1144,7 +1144,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture5.png\" alt=\"Capture5\" />",
+        "text": "<img src=\"images/Q2/Capture5.png\" alt=\"Capture5\" />",
         "answers": [
           {
             "text": "A",
@@ -1165,7 +1165,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture6.png\" alt=\"Capture6\" />",
+        "text": "<img src=\"images/Q2/Capture6.png\" alt=\"Capture6\" />",
         "answers": [
           {
             "text": "A",
@@ -1186,7 +1186,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture7.png\" alt=\"Capture7\" />",
+        "text": "<img src=\"images/Q2/Capture7.png\" alt=\"Capture7\" />",
         "answers": [
           {
             "text": "A",
@@ -1207,7 +1207,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture8.png\" alt=\"Capture8\" />",
+        "text": "<img src=\"images/Q2/Capture8.png\" alt=\"Capture8\" />",
         "answers": [
           {
             "text": "A",
@@ -1228,7 +1228,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture9.png\" alt=\"Capture9\" />",
+        "text": "<img src=\"images/Q2/Capture9.png\" alt=\"Capture9\" />",
         "answers": [
           {
             "text": "A",
@@ -1249,7 +1249,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture10.png\" alt=\"Capture10\" />",
+        "text": "<img src=\"images/Q2/Capture10.png\" alt=\"Capture10\" />",
         "answers": [
           {
             "text": "A",
@@ -1270,7 +1270,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture11.png\" alt=\"Capture11\" />",
+        "text": "<img src=\"images/Q2/Capture11.png\" alt=\"Capture11\" />",
         "answers": [
           {
             "text": "A",
@@ -1291,7 +1291,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture12.png\" alt=\"Capture12\" />",
+        "text": "<img src=\"images/Q2/Capture12.png\" alt=\"Capture12\" />",
         "answers": [
           {
             "text": "A",
@@ -1312,7 +1312,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture13.png\" alt=\"Capture13\" />",
+        "text": "<img src=\"images/Q2/Capture13.png\" alt=\"Capture13\" />",
         "answers": [
           {
             "text": "A",
@@ -1333,7 +1333,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture14.png\" alt=\"Capture14\" />",
+        "text": "<img src=\"images/Q2/Capture14.png\" alt=\"Capture14\" />",
         "answers": [
           {
             "text": "A",
@@ -1354,7 +1354,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture15.png\" alt=\"Capture15\" />",
+        "text": "<img src=\"images/Q2/Capture15.png\" alt=\"Capture15\" />",
         "answers": [
           {
             "text": "A",
@@ -1375,7 +1375,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture16.png\" alt=\"Capture16\" />",
+        "text": "<img src=\"images/Q2/Capture16.png\" alt=\"Capture16\" />",
         "answers": [
           {
             "text": "A",
@@ -1396,7 +1396,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture17.png\" alt=\"Capture17\" />",
+        "text": "<img src=\"images/Q2/Capture17.png\" alt=\"Capture17\" />",
         "answers": [
           {
             "text": "A",
@@ -1417,7 +1417,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture18.png\" alt=\"Capture18\" />",
+        "text": "<img src=\"images/Q2/Capture18.png\" alt=\"Capture18\" />",
         "answers": [
           {
             "text": "A",
@@ -1438,7 +1438,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture19.png\" alt=\"Capture19\" />",
+        "text": "<img src=\"images/Q2/Capture19.png\" alt=\"Capture19\" />",
         "answers": [
           {
             "text": "A",
@@ -1459,7 +1459,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture20.png\" alt=\"Capture20\" />",
+        "text": "<img src=\"images/Q2/Capture20.png\" alt=\"Capture20\" />",
         "answers": [
           {
             "text": "A",
@@ -1480,7 +1480,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture21.png\" alt=\"Capture21\" />",
+        "text": "<img src=\"images/Q2/Capture21.png\" alt=\"Capture21\" />",
         "answers": [
           {
             "text": "A",
@@ -1501,7 +1501,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture22.png\" alt=\"Capture22\" />",
+        "text": "<img src=\"images/Q2/Capture22.png\" alt=\"Capture22\" />",
         "answers": [
           {
             "text": "A",
@@ -1522,7 +1522,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture23.png\" alt=\"Capture23\" />",
+        "text": "<img src=\"images/Q2/Capture23.png\" alt=\"Capture23\" />",
         "answers": [
           {
             "text": "A",
@@ -1543,7 +1543,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture24.png\" alt=\"Capture24\" />",
+        "text": "<img src=\"images/Q2/Capture24.png\" alt=\"Capture24\" />",
         "answers": [
           {
             "text": "A",
@@ -1564,7 +1564,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture25.png\" alt=\"Capture25\" />",
+        "text": "<img src=\"images/Q2/Capture25.png\" alt=\"Capture25\" />",
         "answers": [
           {
             "text": "A",
@@ -1585,7 +1585,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture26.png\" alt=\"Capture26\" />",
+        "text": "<img src=\"images/Q2/Capture26.png\" alt=\"Capture26\" />",
         "answers": [
           {
             "text": "A",
@@ -1606,7 +1606,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture27.png\" alt=\"Capture27\" />",
+        "text": "<img src=\"images/Q2/Capture27.png\" alt=\"Capture27\" />",
         "answers": [
           {
             "text": "A",
@@ -1627,7 +1627,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture28.png\" alt=\"Capture28\" />",
+        "text": "<img src=\"images/Q2/Capture28.png\" alt=\"Capture28\" />",
         "answers": [
           {
             "text": "A",
@@ -1648,7 +1648,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture29.png\" alt=\"Capture29\" />",
+        "text": "<img src=\"images/Q2/Capture29.png\" alt=\"Capture29\" />",
         "answers": [
           {
             "text": "A",
@@ -1669,7 +1669,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture30.png\" alt=\"Capture30\" />",
+        "text": "<img src=\"images/Q2/Capture30.png\" alt=\"Capture30\" />",
         "answers": [
           {
             "text": "A",
@@ -1690,7 +1690,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture31.png\" alt=\"Capture31\" />",
+        "text": "<img src=\"images/Q2/Capture31.png\" alt=\"Capture31\" />",
         "answers": [
           {
             "text": "A",
@@ -1711,7 +1711,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture32.png\" alt=\"Capture32\" />",
+        "text": "<img src=\"images/Q2/Capture32.png\" alt=\"Capture32\" />",
         "answers": [
           {
             "text": "A",
@@ -1732,7 +1732,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture33.png\" alt=\"Capture33\" />",
+        "text": "<img src=\"images/Q2/Capture33.png\" alt=\"Capture33\" />",
         "answers": [
           {
             "text": "A",
@@ -1753,7 +1753,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture34.png\" alt=\"Capture34\" />",
+        "text": "<img src=\"images/Q2/Capture34.png\" alt=\"Capture34\" />",
         "answers": [
           {
             "text": "A",
@@ -1774,7 +1774,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture35.png\" alt=\"Capture35\" />",
+        "text": "<img src=\"images/Q2/Capture35.png\" alt=\"Capture35\" />",
         "answers": [
           {
             "text": "A",
@@ -1795,7 +1795,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture36.png\" alt=\"Capture36\" />",
+        "text": "<img src=\"images/Q2/Capture36.png\" alt=\"Capture36\" />",
         "answers": [
           {
             "text": "A",
@@ -1816,7 +1816,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture37.png\" alt=\"Capture37\" />",
+        "text": "<img src=\"images/Q2/Capture37.png\" alt=\"Capture37\" />",
         "answers": [
           {
             "text": "A",
@@ -1837,7 +1837,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture38.png\" alt=\"Capture38\" />",
+        "text": "<img src=\"images/Q2/Capture38.png\" alt=\"Capture38\" />",
         "answers": [
           {
             "text": "A",
@@ -1858,7 +1858,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture39.png\" alt=\"Capture39\" />",
+        "text": "<img src=\"images/Q2/Capture39.png\" alt=\"Capture39\" />",
         "answers": [
           {
             "text": "A",
@@ -1879,7 +1879,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture40.png\" alt=\"Capture40\" />",
+        "text": "<img src=\"images/Q2/Capture40.png\" alt=\"Capture40\" />",
         "answers": [
           {
             "text": "A",
@@ -1900,7 +1900,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture41.png\" alt=\"Capture41\" />",
+        "text": "<img src=\"images/Q2/Capture41.png\" alt=\"Capture41\" />",
         "answers": [
           {
             "text": "A",
@@ -1921,7 +1921,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture42.png\" alt=\"Capture42\" />",
+        "text": "<img src=\"images/Q2/Capture42.png\" alt=\"Capture42\" />",
         "answers": [
           {
             "text": "A",
@@ -1942,7 +1942,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture43.png\" alt=\"Capture43\" />",
+        "text": "<img src=\"images/Q2/Capture43.png\" alt=\"Capture43\" />",
         "answers": [
           {
             "text": "A",
@@ -1963,7 +1963,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture44.png\" alt=\"Capture44\" />",
+        "text": "<img src=\"images/Q2/Capture44.png\" alt=\"Capture44\" />",
         "answers": [
           {
             "text": "A",
@@ -1984,7 +1984,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture45.png\" alt=\"Capture45\" />",
+        "text": "<img src=\"images/Q2/Capture45.png\" alt=\"Capture45\" />",
         "answers": [
           {
             "text": "A",
@@ -2005,7 +2005,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture46.png\" alt=\"Capture46\" />",
+        "text": "<img src=\"images/Q2/Capture46.png\" alt=\"Capture46\" />",
         "answers": [
           {
             "text": "A",
@@ -2026,7 +2026,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture47.png\" alt=\"Capture47\" />",
+        "text": "<img src=\"images/Q2/Capture47.png\" alt=\"Capture47\" />",
         "answers": [
           {
             "text": "A",
@@ -2047,7 +2047,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture48.png\" alt=\"Capture48\" />",
+        "text": "<img src=\"images/Q2/Capture48.png\" alt=\"Capture48\" />",
         "answers": [
           {
             "text": "A",
@@ -2068,7 +2068,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture49.png\" alt=\"Capture49\" />",
+        "text": "<img src=\"images/Q2/Capture49.png\" alt=\"Capture49\" />",
         "answers": [
           {
             "text": "A",
@@ -2089,7 +2089,7 @@
         ]
       },
       {
-        "text": "<img src=\"images/Q1/Capture50.png\" alt=\"Capture50\" />",
+        "text": "<img src=\"images/Q2/Capture50.png\" alt=\"Capture50\" />",
         "answers": [
           {
             "text": "A",
@@ -2102,6 +2102,4230 @@
           {
             "text": "C",
             "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Project Management",
+    "session": "Q3",
+    "questions": [
+      {
+        "text": "<img src=\"images/Q3/Capture1.png\" alt=\"Capture1\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture2.png\" alt=\"Capture2\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture3.png\" alt=\"Capture3\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture4.png\" alt=\"Capture4\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture5.png\" alt=\"Capture5\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture6.png\" alt=\"Capture6\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture7.png\" alt=\"Capture7\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture8.png\" alt=\"Capture8\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture9.png\" alt=\"Capture9\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture10.png\" alt=\"Capture10\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture11.png\" alt=\"Capture11\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture12.png\" alt=\"Capture12\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture13.png\" alt=\"Capture13\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture14.png\" alt=\"Capture14\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture15.png\" alt=\"Capture15\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture16.png\" alt=\"Capture16\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture17.png\" alt=\"Capture17\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture18.png\" alt=\"Capture18\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture19.png\" alt=\"Capture19\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture20.png\" alt=\"Capture20\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture21.png\" alt=\"Capture21\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture22.png\" alt=\"Capture22\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture23.png\" alt=\"Capture23\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture24.png\" alt=\"Capture24\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture25.png\" alt=\"Capture25\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture26.png\" alt=\"Capture26\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture27.png\" alt=\"Capture27\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture28.png\" alt=\"Capture28\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture29.png\" alt=\"Capture29\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture30.png\" alt=\"Capture30\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture31.png\" alt=\"Capture31\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture32.png\" alt=\"Capture32\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture33.png\" alt=\"Capture33\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture34.png\" alt=\"Capture34\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture35.png\" alt=\"Capture35\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture36.png\" alt=\"Capture36\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture37.png\" alt=\"Capture37\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture38.png\" alt=\"Capture38\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture39.png\" alt=\"Capture39\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture40.png\" alt=\"Capture40\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture41.png\" alt=\"Capture41\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture42.png\" alt=\"Capture42\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture43.png\" alt=\"Capture43\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture44.png\" alt=\"Capture44\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture45.png\" alt=\"Capture45\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture46.png\" alt=\"Capture46\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture47.png\" alt=\"Capture47\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture48.png\" alt=\"Capture48\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture49.png\" alt=\"Capture49\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q3/Capture50.png\" alt=\"Capture50\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Project Management",
+    "session": "Q4",
+    "questions": [
+      {
+        "text": "<img src=\"images/Q4/Capture1.png\" alt=\"Capture1\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture2.png\" alt=\"Capture2\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture3.png\" alt=\"Capture3\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture4.png\" alt=\"Capture4\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture5.png\" alt=\"Capture5\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture6.png\" alt=\"Capture6\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture7.png\" alt=\"Capture7\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture8.png\" alt=\"Capture8\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture9.png\" alt=\"Capture9\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture10.png\" alt=\"Capture10\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture11.png\" alt=\"Capture11\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture12.png\" alt=\"Capture12\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture13.png\" alt=\"Capture13\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture14.png\" alt=\"Capture14\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture15.png\" alt=\"Capture15\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture16.png\" alt=\"Capture16\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture17.png\" alt=\"Capture17\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture18.png\" alt=\"Capture18\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture19.png\" alt=\"Capture19\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture20.png\" alt=\"Capture20\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture21.png\" alt=\"Capture21\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture22.png\" alt=\"Capture22\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture23.png\" alt=\"Capture23\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture24.png\" alt=\"Capture24\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture25.png\" alt=\"Capture25\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture26.png\" alt=\"Capture26\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture27.png\" alt=\"Capture27\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture28.png\" alt=\"Capture28\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture29.png\" alt=\"Capture29\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture30.png\" alt=\"Capture30\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture31.png\" alt=\"Capture31\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture32.png\" alt=\"Capture32\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture33.png\" alt=\"Capture33\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture34.png\" alt=\"Capture34\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture35.png\" alt=\"Capture35\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture36.png\" alt=\"Capture36\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture37.png\" alt=\"Capture37\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture38.png\" alt=\"Capture38\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture39.png\" alt=\"Capture39\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture40.png\" alt=\"Capture40\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture41.png\" alt=\"Capture41\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture42.png\" alt=\"Capture42\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture43.png\" alt=\"Capture43\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture44.png\" alt=\"Capture44\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture45.png\" alt=\"Capture45\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture46.png\" alt=\"Capture46\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture47.png\" alt=\"Capture47\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture48.png\" alt=\"Capture48\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture49.png\" alt=\"Capture49\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q4/Capture50.png\" alt=\"Capture50\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Project Management",
+    "session": "Q5",
+    "questions": [
+      {
+        "text": "<img src=\"images/Q5/Capture1.png\" alt=\"Capture1\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture2.png\" alt=\"Capture2\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture3.png\" alt=\"Capture3\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture4.png\" alt=\"Capture4\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture5.png\" alt=\"Capture5\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture6.png\" alt=\"Capture6\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture7.png\" alt=\"Capture7\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture8.png\" alt=\"Capture8\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture9.png\" alt=\"Capture9\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture10.png\" alt=\"Capture10\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture11.png\" alt=\"Capture11\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture12.png\" alt=\"Capture12\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture13.png\" alt=\"Capture13\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture14.png\" alt=\"Capture14\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture15.png\" alt=\"Capture15\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture16.png\" alt=\"Capture16\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture17.png\" alt=\"Capture17\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture18.png\" alt=\"Capture18\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture19.png\" alt=\"Capture19\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture20.png\" alt=\"Capture20\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture21.png\" alt=\"Capture21\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture22.png\" alt=\"Capture22\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture23.png\" alt=\"Capture23\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture24.png\" alt=\"Capture24\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture25.png\" alt=\"Capture25\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture26.png\" alt=\"Capture26\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture27.png\" alt=\"Capture27\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture28.png\" alt=\"Capture28\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture29.png\" alt=\"Capture29\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture30.png\" alt=\"Capture30\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture31.png\" alt=\"Capture31\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture32.png\" alt=\"Capture32\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture33.png\" alt=\"Capture33\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture34.png\" alt=\"Capture34\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture35.png\" alt=\"Capture35\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture36.png\" alt=\"Capture36\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture37.png\" alt=\"Capture37\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture38.png\" alt=\"Capture38\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture39.png\" alt=\"Capture39\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture40.png\" alt=\"Capture40\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture41.png\" alt=\"Capture41\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture42.png\" alt=\"Capture42\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture43.png\" alt=\"Capture43\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture44.png\" alt=\"Capture44\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture45.png\" alt=\"Capture45\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture46.png\" alt=\"Capture46\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture47.png\" alt=\"Capture47\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture48.png\" alt=\"Capture48\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture49.png\" alt=\"Capture49\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q5/Capture50.png\" alt=\"Capture50\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Project Management",
+    "session": "Q6",
+    "questions": [
+      {
+        "text": "<img src=\"images/Q6/Capture1.png\" alt=\"Capture1\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture2.png\" alt=\"Capture2\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture3.png\" alt=\"Capture3\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture4.png\" alt=\"Capture4\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture5.png\" alt=\"Capture5\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture6.png\" alt=\"Capture6\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture7.png\" alt=\"Capture7\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture8.png\" alt=\"Capture8\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture9.png\" alt=\"Capture9\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture10.png\" alt=\"Capture10\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture11.png\" alt=\"Capture11\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture12.png\" alt=\"Capture12\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture13.png\" alt=\"Capture13\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture14.png\" alt=\"Capture14\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture15.png\" alt=\"Capture15\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture16.png\" alt=\"Capture16\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture17.png\" alt=\"Capture17\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture18.png\" alt=\"Capture18\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture19.png\" alt=\"Capture19\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture20.png\" alt=\"Capture20\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture21.png\" alt=\"Capture21\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture22.png\" alt=\"Capture22\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture23.png\" alt=\"Capture23\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture24.png\" alt=\"Capture24\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture25.png\" alt=\"Capture25\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture26.png\" alt=\"Capture26\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture27.png\" alt=\"Capture27\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture28.png\" alt=\"Capture28\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture29.png\" alt=\"Capture29\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture30.png\" alt=\"Capture30\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture31.png\" alt=\"Capture31\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture32.png\" alt=\"Capture32\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture33.png\" alt=\"Capture33\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture34.png\" alt=\"Capture34\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture35.png\" alt=\"Capture35\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture36.png\" alt=\"Capture36\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture37.png\" alt=\"Capture37\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture38.png\" alt=\"Capture38\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture39.png\" alt=\"Capture39\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture40.png\" alt=\"Capture40\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture41.png\" alt=\"Capture41\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture42.png\" alt=\"Capture42\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture43.png\" alt=\"Capture43\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": true
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture44.png\" alt=\"Capture44\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture45.png\" alt=\"Capture45\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture46.png\" alt=\"Capture46\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture47.png\" alt=\"Capture47\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture48.png\" alt=\"Capture48\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": false
+          },
+          {
+            "text": "C",
+            "correct": true
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture49.png\" alt=\"Capture49\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
+          },
+          {
+            "text": "D",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "text": "<img src=\"images/Q6/Capture50.png\" alt=\"Capture50\" />",
+        "answers": [
+          {
+            "text": "A",
+            "correct": false
+          },
+          {
+            "text": "B",
+            "correct": true
+          },
+          {
+            "text": "C",
+            "correct": false
           },
           {
             "text": "D",
