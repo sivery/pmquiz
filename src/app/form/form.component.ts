@@ -35,7 +35,7 @@ export class FormComponent implements OnInit {
     {label: Constants.Q2, value: Constants.Q2},
     {label: Constants.Q3, value: Constants.Q3},
     {label: Constants.Q4, value: Constants.Q4},
-    // {label: Constants.Q5, value: Constants.Q5},
+    {label: Constants.Q5, value: Constants.Q5},
     // {label: Constants.Q6, value: Constants.Q6},
     // {label: Constants.EXTRA, value: Constants.EXTRA},
   ];
